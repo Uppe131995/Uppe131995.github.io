@@ -7,10 +7,6 @@
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uppe131995&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uppe131995&layout=compact&theme=tokyonight)
-
 ## Senior Data Analyst | Power BI | SQL | Python | Microsoft Fabric
 
 Welcome to my personal portfolio website.
