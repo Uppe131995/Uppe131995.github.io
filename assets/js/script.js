@@ -381,3 +381,38 @@ function updateDateTime() {
 updateDateTime();
 
 setInterval(updateDateTime, 1000);
+
+/* =====================================
+   MOBILE MENU
+===================================== */
+
+const menuToggle = document.getElementById("menuToggle");
+const mobileMenu = document.getElementById("navLinks");
+
+if(menuToggle && mobileMenu){
+
+    menuToggle.addEventListener("click",()=>{
+
+        mobileMenu.classList.toggle("active");
+
+        menuToggle.innerHTML = mobileMenu.classList.contains("active")
+
+            ? '<i class="fa-solid fa-xmark"></i>'
+
+            : '<i class="fa-solid fa-bars"></i>';
+
+    });
+
+    document.querySelectorAll(".nav-links a").forEach(link=>{
+
+        link.addEventListener("click",()=>{
+
+            mobileMenu.classList.remove("active");
+
+            menuToggle.innerHTML='<i class="fa-solid fa-bars"></i>';
+
+        });
+
+    });
+
+}
