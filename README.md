@@ -11,7 +11,7 @@
 
 Welcome to my personal portfolio website.
 
-This portfolio showcases my professional experience, technical expertise, certifications, and data analytics projects built throughout my 8+ years of experience working with global organizations including Wells Fargo, Deloitte, DXC Technology, and Accenture.
+This portfolio showcases my professional experience, technical expertise, certifications, and data analytics projects built throughout my 8+ years of experience working with global organizations including Trinet, Wells Fargo, Deloitte, DXC Technology, and Accenture.
 
 ---
 
